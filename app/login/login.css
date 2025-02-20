@@ -1,0 +1,12 @@
+.form-group {
+  display: flex;
+}
+.username {
+  margin-bottom: 16px;
+}
+.password {
+  margin-bottom: 16px;
+}
+label {
+  width: 70px;
+}
